@@ -1,0 +1,10 @@
+../Core/Src/dog_l128w.c:8:6:DOGXL128_WriteCommand	1
+../Core/Src/dog_l128w.c:16:6:DOGXL128_WriteData	1
+../Core/Src/dog_l128w.c:24:6:DOGXL128_Reset	1
+../Core/Src/dog_l128w.c:32:6:DOGXL128_Init	1
+../Core/Src/dog_l128w.c:55:6:DOGXL128_SetPixel	3
+../Core/Src/dog_l128w.c:72:6:DOGXL128_CleanScreen	1
+../Core/Src/dog_l128w.c:77:6:DOGXL128_DrawChar	4
+../Core/Src/dog_l128w.c:91:6:DOGXL128_DrawString	4
+../Core/Src/dog_l128w.c:104:6:DOGXL128_TestPattern	4
+../Core/Src/dog_l128w.c:118:6:DOGXL128_DisplayImage	3
